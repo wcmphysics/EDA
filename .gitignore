@@ -135,6 +135,9 @@ data/*.zip
 data/*.gsv
 data/*.json
 
+# figure
+figure/*.png
+
 # models
 models/*.pickle
 models/*.pkl
